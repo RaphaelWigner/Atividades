@@ -17,8 +17,6 @@ public class Jogo {
 
             int chute = gerador.nextInt(4);
 
-            System.out.println("DebugNum : " + chute);
-            System.out.println("Debug : " + PontuacaoJogador);
             System.out.println("Chute um numero de 0 a 3!");
             int RespostaJogo = leitura.nextInt();
 
