@@ -4,6 +4,6 @@ Esse repositorio é dedicado ao histórico de atividades/desafios/projetos que e
 
 ## Como funciona?
 
-Para cada linguaguem tem uma pasta que seria a "Main" para guardar os projetos referentes a linguaguem. Nessa pasta vão ter outras pastas que serão os projetos feitos.
+Para cada linguaguem tem uma pasta que seria a "Main" para guardar os projetos referentes a linguaguem. Nessa pasta vão ter outras pastas que são os projetos feitos.
 
 Exemplo : Tem uma pasta chamado Java, dentro dessa pasta, há outras pastas que seriam projetos de Java.
