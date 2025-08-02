@@ -1,0 +1,2 @@
+
+Registro do Raphael;Nome : Raphael;Idade : 19;Curso : 120432;Nota 1 : 10.0;Nota 2 : 10.0;
