@@ -1,0 +1,15 @@
+C:\Users\rapha\Documents\Projetos\Projetos\C#\progavansisteexerdiago\progavansisteexerdiago\obj\Debug\net9.0\progavansisteexerdiago.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\Documents\Projetos\Projetos\C#\progavansisteexerdiago\progavansisteexerdiago\obj\Debug\net9.0\progavansisteexerdiago.AssemblyInfoInputs.cache
+C:\Users\rapha\Documents\Projetos\Projetos\C#\progavansisteexerdiago\progavansisteexerdiago\obj\Debug\net9.0\progavansisteexerdiago.AssemblyInfo.cs
+C:\Users\rapha\Documents\Projetos\Projetos\C#\progavansisteexerdiago\progavansisteexerdiago\obj\Debug\net9.0\progavansisteexerdiago.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Documents\Projetos\Projetos\C#\progavansisteexerdiago\progavansisteexerdiago\obj\Debug\net9.0\progavansisteexerdiago.sourcelink.json
+C:\Users\rapha\Documents\Projetos\Projetos\C#\progavansisteexerdiago\progavansisteexerdiago\bin\Debug\net9.0\progavansisteexerdiago.exe
+C:\Users\rapha\Documents\Projetos\Projetos\C#\progavansisteexerdiago\progavansisteexerdiago\bin\Debug\net9.0\progavansisteexerdiago.deps.json
+C:\Users\rapha\Documents\Projetos\Projetos\C#\progavansisteexerdiago\progavansisteexerdiago\bin\Debug\net9.0\progavansisteexerdiago.runtimeconfig.json
+C:\Users\rapha\Documents\Projetos\Projetos\C#\progavansisteexerdiago\progavansisteexerdiago\bin\Debug\net9.0\progavansisteexerdiago.dll
+C:\Users\rapha\Documents\Projetos\Projetos\C#\progavansisteexerdiago\progavansisteexerdiago\bin\Debug\net9.0\progavansisteexerdiago.pdb
+C:\Users\rapha\Documents\Projetos\Projetos\C#\progavansisteexerdiago\progavansisteexerdiago\obj\Debug\net9.0\progavansisteexerdiago.dll
+C:\Users\rapha\Documents\Projetos\Projetos\C#\progavansisteexerdiago\progavansisteexerdiago\obj\Debug\net9.0\refint\progavansisteexerdiago.dll
+C:\Users\rapha\Documents\Projetos\Projetos\C#\progavansisteexerdiago\progavansisteexerdiago\obj\Debug\net9.0\progavansisteexerdiago.pdb
+C:\Users\rapha\Documents\Projetos\Projetos\C#\progavansisteexerdiago\progavansisteexerdiago\obj\Debug\net9.0\progavansisteexerdiago.genruntimeconfig.cache
+C:\Users\rapha\Documents\Projetos\Projetos\C#\progavansisteexerdiago\progavansisteexerdiago\obj\Debug\net9.0\ref\progavansisteexerdiago.dll

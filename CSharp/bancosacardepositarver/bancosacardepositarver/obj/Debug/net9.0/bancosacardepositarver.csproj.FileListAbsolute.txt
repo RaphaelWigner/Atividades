@@ -1,0 +1,15 @@
+C:\Users\rapha\Documents\Projetos\Projetos\C#\bancosacardepositarver\bancosacardepositarver\bin\Debug\net9.0\bancosacardepositarver.exe
+C:\Users\rapha\Documents\Projetos\Projetos\C#\bancosacardepositarver\bancosacardepositarver\bin\Debug\net9.0\bancosacardepositarver.deps.json
+C:\Users\rapha\Documents\Projetos\Projetos\C#\bancosacardepositarver\bancosacardepositarver\bin\Debug\net9.0\bancosacardepositarver.runtimeconfig.json
+C:\Users\rapha\Documents\Projetos\Projetos\C#\bancosacardepositarver\bancosacardepositarver\bin\Debug\net9.0\bancosacardepositarver.dll
+C:\Users\rapha\Documents\Projetos\Projetos\C#\bancosacardepositarver\bancosacardepositarver\bin\Debug\net9.0\bancosacardepositarver.pdb
+C:\Users\rapha\Documents\Projetos\Projetos\C#\bancosacardepositarver\bancosacardepositarver\obj\Debug\net9.0\bancosacardepositarver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\Documents\Projetos\Projetos\C#\bancosacardepositarver\bancosacardepositarver\obj\Debug\net9.0\bancosacardepositarver.AssemblyInfoInputs.cache
+C:\Users\rapha\Documents\Projetos\Projetos\C#\bancosacardepositarver\bancosacardepositarver\obj\Debug\net9.0\bancosacardepositarver.AssemblyInfo.cs
+C:\Users\rapha\Documents\Projetos\Projetos\C#\bancosacardepositarver\bancosacardepositarver\obj\Debug\net9.0\bancosacardepositarver.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Documents\Projetos\Projetos\C#\bancosacardepositarver\bancosacardepositarver\obj\Debug\net9.0\bancosacardepositarver.sourcelink.json
+C:\Users\rapha\Documents\Projetos\Projetos\C#\bancosacardepositarver\bancosacardepositarver\obj\Debug\net9.0\bancosacardepositarver.dll
+C:\Users\rapha\Documents\Projetos\Projetos\C#\bancosacardepositarver\bancosacardepositarver\obj\Debug\net9.0\refint\bancosacardepositarver.dll
+C:\Users\rapha\Documents\Projetos\Projetos\C#\bancosacardepositarver\bancosacardepositarver\obj\Debug\net9.0\bancosacardepositarver.pdb
+C:\Users\rapha\Documents\Projetos\Projetos\C#\bancosacardepositarver\bancosacardepositarver\obj\Debug\net9.0\bancosacardepositarver.genruntimeconfig.cache
+C:\Users\rapha\Documents\Projetos\Projetos\C#\bancosacardepositarver\bancosacardepositarver\obj\Debug\net9.0\ref\bancosacardepositarver.dll
